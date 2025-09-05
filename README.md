@@ -23,7 +23,7 @@
 - 🤖 [Robot Seguidor de Línea](#) – Circuito con sensores IR y control por microcontrolador.  
 - 💡 [Control de Luces IoT con TTGO OLED](#) –  
    Proyecto con **ESP32 TTGO OLED**, diseñado para encender/apagar luces a distancia de **200 metros**,  
-   controlado mediante comunicación inalámbrica y con visualización en la pantalla OLED integrada para Coheteri  
+   controlado mediante comunicación inalámbrica y con visualización en la pantalla OLED integrada para Coheteria ignicion, proyevto divulgativo de ciencia hecho en la **FAB LAB SANTA CRUZ**.
 
 ---
 
