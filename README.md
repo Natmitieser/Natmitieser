@@ -13,12 +13,10 @@
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Proyectos
 
 ### 🎨 Diseño UI/UX
-- 🎯 [UI Kit en Figma](#) – Biblioteca de componentes reutilizables.  
-- 🛍️ [Landing Page Minimalista](#) – Diseño de página web moderna y responsive.  
-- 📱 [Prototipo App Móvil](#) – Flujo interactivo creado en Figma.  
+- 🎯 [Diseño de pagina web](#) – Desarrollo del UI de la pagina web de Buidlers Bolivia
 
 ### 🔧 Electrónica y Microcontroladores
 - ⚡ [Sistema de Riego Automático](#) – Arduino + sensores de humedad y bomba de agua.  
